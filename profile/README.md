@@ -12,7 +12,6 @@ ListEverywhere provides a unique feature to enhance the shopping experience of u
 <li>Flutter 3.3.4</li>
 <li>AWS PaaS</li>
 <li>FatSecret Platform API</li>
-<li>GitHub OAuth</li>
 <li>Visual Studio Code</li>
 <li>MySQL Workbench</li>
 <li>Spring Tool Suite 4</li>
