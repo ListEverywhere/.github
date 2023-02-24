@@ -4,6 +4,11 @@ ListEverywhere provides a unique feature to enhance the shopping experience of u
 </p>
 
 <h2>Repository Links</h2>
+<ul>
+<li>[Flutter Frontend Application](https://github.com/ListEverywhere/listeverywhere_app)</li>
+<li>[Java + Spring Boot Backend API](https://github.com/ListEverywhere/ListEverywhereAPI)</li>
+<li>[Design Diagrams](https://github.com/ListEverywhere/ListEverywhereDesign)</li>
+</ul>
 
 
 <h3>Technologies</h3>
